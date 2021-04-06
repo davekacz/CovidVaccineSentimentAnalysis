@@ -1,1 +1,1 @@
-CSE 6745 Final projecting
+CSE 6745 Final Project
